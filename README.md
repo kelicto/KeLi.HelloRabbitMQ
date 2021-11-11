@@ -1,2 +1,2 @@
-# HelloRabbitMQ
+# KeLi.HelloRabbitMQ
 Hello, RabbitMQ!
